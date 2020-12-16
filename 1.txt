@@ -1,1 +1,3 @@
-my first work witg git
+My first work witg git
+
+Same big chenges
